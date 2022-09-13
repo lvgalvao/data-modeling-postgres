@@ -1,7 +1,10 @@
 # Data Modeling with Postgres
 
-<img src="[https://github.com/lvgalvao/data-modeling-postgres/blob/main/images/log-data.png?raw=true](https://res.cloudinary.com/practicaldev/image/fetch/s--AaXipa7w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0hxq2mhaxmhcumh799ny.png)" alt="Postgres" title="Postgres">
-
+<img
+  src="https://github.com/lvgalvao/data-modeling-postgres/blob/main/images/json_postgres.png?raw=true"
+  alt="Postgres"
+  title="Postgrese"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## **Overview**
 In this project, we apply Data Modeling with Postgres and build an ETL pipeline using Python. A startup wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Currently, they are collecting data in json format and the analytics team is particularly interested in understanding what songs users are listening to.
