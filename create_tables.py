@@ -27,6 +27,7 @@ def create_database():
     return cur, conn
 
 
+
 def drop_tables(cur, conn):
     """
     Drops each table using the queries in `drop_table_queries` list.
